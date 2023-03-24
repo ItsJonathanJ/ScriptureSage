@@ -49,4 +49,4 @@ For info on how to use MongoDB in node.js, look [here](https://www.w3schools.com
 
 
 # Credit
-This base is for public use, please just credit me. https://solo.to/itsjonathan
+This bot is for public use, please just credit me. https://solo.to/itsjonathan
