@@ -39,6 +39,7 @@ export default {
     execute: async (interaction: any) => { 
       console.log('Event ran")
     }
+}
 ```
 
 #MongoDB Connection
