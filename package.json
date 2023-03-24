@@ -1,0 +1,31 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "node build/index.js",
+    "build": "tsc",
+    "dev": "nodemon src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsJonathanJ/Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsJonathanJ/Application/issues"
+  },
+  "homepage": "https://github.com/ItsJonathanJ/Application#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.2",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7"
+  }
+}
