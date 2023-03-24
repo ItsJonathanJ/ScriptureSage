@@ -43,7 +43,7 @@ export default {
 
 #MongoDB Connection
 
-Look in the [example.env](example.env) so that you can add the required information to your MongoDB database. 
+Look in the [example.env](example.env) so that you can add the required information to your MongoDB database. The bot creates a connection in [ready.ts](src/events/misc/ready.ts). You need to create the inquiry’s separately.
 
 For info on how to use MongoDB in node.js, look [here](https://www.w3schools.com/nodejs/nodejs_mongodb.asp)
 
