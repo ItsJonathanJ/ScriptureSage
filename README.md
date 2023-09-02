@@ -42,7 +42,7 @@ export default {
 }
 ```
 
-#MongoDB Connection
+# MongoDB Connection
 
 Look in the [example.env](example.env) so that you can add the required information to your MongoDB database. The bot creates a connection in [ready.ts](src/events/misc/ready.ts). You need to create the inquiry’s separately.
 
